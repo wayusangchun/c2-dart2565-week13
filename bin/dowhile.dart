@@ -4,7 +4,7 @@ void main(){
 
   do {
     print('2*$i = ${i * 2}');
-    i = i + 1;
+    i = i + 1;  
   } while (i <= 4);
 
 }
